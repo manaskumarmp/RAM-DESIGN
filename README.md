@@ -52,3 +52,7 @@ Conclusion
 In this task, a simple synchronous RAM module was successfully designed and simulated using Verilog HDL. The design demonstrated the basic principles of memory storage, addressing, and clock-controlled data transfer. The simulation results verified that the RAM module performs correct read and write operations. This exercise helped in understanding the implementation of memory elements in digital systems and provided practical experience with hardware design and simulation using modern FPGA design tools.
 
 OUTPUT:
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/32d3f1d6-a69f-44af-a0ad-af8d3c473a33" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/c0c338c1-2858-4dde-8281-402e516b6290" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/4d1605e9-2ac4-417f-a0a5-70cf1f8d7b3d" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/bb5c9dc7-0ad6-499e-ac33-7964763c9456" />

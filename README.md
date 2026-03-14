@@ -50,3 +50,5 @@ This validated that the RAM module correctly performs both read and write operat
 Conclusion
 
 In this task, a simple synchronous RAM module was successfully designed and simulated using Verilog HDL. The design demonstrated the basic principles of memory storage, addressing, and clock-controlled data transfer. The simulation results verified that the RAM module performs correct read and write operations. This exercise helped in understanding the implementation of memory elements in digital systems and provided practical experience with hardware design and simulation using modern FPGA design tools.
+
+OUTPUT:

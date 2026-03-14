@@ -1,4 +1,9 @@
 # RAM-DESIGN
+*COMPANY : CODTECH IT SOLUTIONS*
+*NAME : MANAS KUMAR*
+*INTERN ID : CTIS6553*
+*DURATION : 8 WEEKs*
+*MENTOR : NEELA SANTOSH*
 ## Design and Simulation of a Simple Synchronous RAM using Verilog
 Introduction
 

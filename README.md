@@ -1,5 +1,5 @@
 # RAM-DESIGN
-##Design and Simulation of a Simple Synchronous RAM using Verilog
+## Design and Simulation of a Simple Synchronous RAM using Verilog
 Introduction
 
 Random Access Memory (RAM) is a fundamental component of digital systems and computer architectures. It is used for temporarily storing data that can be accessed by the processor during program execution. Unlike sequential storage devices, RAM allows data to be accessed directly using a specific memory address, which makes it significantly faster for read and write operations. In digital hardware design, RAM modules are often implemented using Hardware Description Languages (HDLs) such as Verilog.
